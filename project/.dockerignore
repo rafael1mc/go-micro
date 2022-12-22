@@ -1,0 +1,4 @@
+db-data/
+caddy_config/
+caddy_data/
+k8s/
